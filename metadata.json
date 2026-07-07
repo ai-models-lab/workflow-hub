@@ -1,0 +1,6 @@
+{
+  "name": "Workflow Hub",
+  "description": "一个功能强大、设计精美的多项目工作流管理与团队协作系统，支持看板视图、时间线、团队工作负荷监控、任务评论及活动日志，便于团队高效追踪项目进度并协同作业。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
